@@ -12,12 +12,12 @@ function App() {
 
     function likePunctuation(arr) {
       if (likes.length === 0) {
-        return 'Like';
+        return '0 like';
       }
       else if ((likes[likes.length - 1]) < 2) {
-        return 'Like ' + likes[likes.length - 1];
+        return likes[likes.length - 1] + ' like';
       } else {
-        return 'Likes ' + likes[likes.length - 1];
+        return likes[likes.length - 1] + ' likes';
       }
     }
   
