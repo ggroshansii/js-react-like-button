@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/js-react-like-button/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/js-react-like-button/static/js/main.e4a77af3.chunk.js",
+    "main.js.map": "/js-react-like-button/static/js/main.e4a77af3.chunk.js.map",
+    "runtime-main.js": "/js-react-like-button/static/js/runtime-main.26933343.js",
+    "runtime-main.js.map": "/js-react-like-button/static/js/runtime-main.26933343.js.map",
+    "static/js/2.6581d4af.chunk.js": "/js-react-like-button/static/js/2.6581d4af.chunk.js",
+    "static/js/2.6581d4af.chunk.js.map": "/js-react-like-button/static/js/2.6581d4af.chunk.js.map",
+    "static/js/3.bfba2fab.chunk.js": "/js-react-like-button/static/js/3.bfba2fab.chunk.js",
+    "static/js/3.bfba2fab.chunk.js.map": "/js-react-like-button/static/js/3.bfba2fab.chunk.js.map",
+    "index.html": "/js-react-like-button/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/js-react-like-button/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.6581d4af.chunk.js.LICENSE.txt": "/js-react-like-button/static/js/2.6581d4af.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.26933343.js",
+    "static/js/2.6581d4af.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.e4a77af3.chunk.js"
+  ]
+}
